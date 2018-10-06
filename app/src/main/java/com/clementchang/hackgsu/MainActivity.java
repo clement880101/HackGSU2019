@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v4.content.ContextCompat;
 import android.os.Bundle;
 import android.hardware.camera2.*;
+import android.view.SurfaceView;
 
 
 public class MainActivity extends AppCompatActivity {
