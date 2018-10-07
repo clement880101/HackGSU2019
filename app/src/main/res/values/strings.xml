@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hackgsu</string>
+    <string name="app_name">GreenApp</string>
+    <string name="tocamera">Camera</string>
+    <string name="recycle">Logo For Recycle</string>
 </resources>
